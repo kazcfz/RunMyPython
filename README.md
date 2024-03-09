@@ -3,8 +3,9 @@ RunMyPython is a web-based Python execution module built using the Flask framewo
 <br><br>
 
 ## Features
-- User-friendly Web Interface
-- Safe Arbitrary Code Execution
+- **Clean & Simple GUI** – User-friendly web interface!
+- **Secure** – Safely execute arbitrary codes!
+- **Lightweight** – Less than 0.005MB!
 <br><br>
 
 ## Getting Started
